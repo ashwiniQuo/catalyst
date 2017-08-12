@@ -1,0 +1,15 @@
+*.pyc
+*.vscode
+*.ipr
+*.iml
+.idea
+node_modules
+.eggs
+.class
+
+
+# Node.js, webpack artifacts
+*.entry.js
+*.js.map
+node_modules
+npm-debug.log
