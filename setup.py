@@ -13,7 +13,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     scripts=['catalyst/bin/catalyst'],
-    install_requires=[],
+    install_requires=['tensorflow', ],
     author='Abhishek Shukla',
     author_email='shuklaabhishek02@gmail.com',
     url='https://github.com/shuklaabhi/catalyst',
